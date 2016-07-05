@@ -1,0 +1,22 @@
+{
+  "name": "geethub",
+  "version": "1.0.0",
+  "description": "'Listen to music'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amol023/geethub.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Amol023/geethub/issues"
+  },
+  "homepage": "https://github.com/Amol023/geethub#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
