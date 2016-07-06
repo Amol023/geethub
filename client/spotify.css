@@ -1,5 +1,6 @@
 body {
-    padding: 20px;
+    padding: 20px,
+    background-color: pink
 }
 #search-form, .form-control {
     margin-bottom: 20px;
