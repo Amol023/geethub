@@ -18,6 +18,6 @@
   "homepage": "https://github.com/Amol023/geethub#readme",
   "dependencies": {
     "express": "^4.14.0",
-    "nodemon": "^1.9.2"
+    "handlebars": "^4.0.5"
   }
 }
