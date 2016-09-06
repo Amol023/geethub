@@ -1,19 +1,29 @@
 body {
-    padding: 20px,
-    background-color: pink
+  background-color: #3e3c3c;
 }
+.jumbotron {background: #242226;}
+.jumbotron h1 { color: white; }
+
+.container {
+  background: #1ed760;
+  border-radius: 7px;
+}
+
 #search-form, .form-control {
-    margin-bottom: 20px;
+  margin-bottom: 20px;
 }
+
 .cover {
-    width: 300px;
-    height: 300px;
-    display: inline-block;
-    background-size: cover;
+  width: 300px;
+  height: 300px;
+  display: inline-block;
+  background-size: cover;
+  border-radius: 7px;
 }
+
 .cover:hover {
-    cursor: pointer;
+  cursor: pointer;
 }
 .cover.playing {
-    border: 5px solid #e45343;
+  border: 5px solid #ffffff;
 }
